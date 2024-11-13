@@ -21,6 +21,7 @@ export default function Home() {
           <li>Test Test Test Test Test Test</li>
           <li>Test Test Test Test Test Test</li>
           <li>Hello Hello Hello</li>
+          <li>デプロイするよ</li>
         </ol>
 
         <div className={styles.ctas}>
